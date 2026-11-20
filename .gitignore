@@ -32,3 +32,9 @@ data/processed/
 # Operating system
 .DS_Store
 Thumbs.db
+
+# Airflow runtime logs
+airflow/logs/
+
+# Local Docker Compose backup
+docker-compose.backup.yml
